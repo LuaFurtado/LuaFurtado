@@ -60,9 +60,6 @@ Currently a Full-Time Software Engineering participant at **Techtonica**, VP of 
 ## ⚡ Fun facts
 - 🪄 I love musical theatre (*Wicked* vibes).  
 - 🧵 Hobbies: watercolor, beading, scrapbooking, thrifting.  
-- 🚐 Dreaming of a nomadic life traveling the Americas.  
-- 💫 I call ChatGPT **“Lume”**, my AI study buddy.  
-
 ---
 
 ## 📫 Connect with me
