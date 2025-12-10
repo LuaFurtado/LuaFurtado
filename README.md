@@ -2,7 +2,7 @@
 ### Creative Developer • Techtonica SE Bootcamp • Community Builder  
 
 🌟 I’m a creative-minded developer blending **front-end engineering**, **game development**, and **user-centered design** with a lifelong love for arts & crafts.  
-Currently a Full-Time Software Engineering participant at **Techtonica**, VP of the **ASCC**, and a proud mom of two amazing girls who inspire everything I do.  
+Currently a Part-Time Software Engineering participant at **Techtonica**, VP of the **ASCC**, and a proud mom of two amazing girls who inspire everything I do.  
 
 ---
 
