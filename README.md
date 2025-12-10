@@ -85,7 +85,6 @@ Currently a Full-Time Software Engineering participant at **Techtonica**, VP of 
 
 </div>
 
-## 🐍 My GitHub Snake
+![snake](https://raw.githubusercontent.com/LuaFurtado/LuaFurtado/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/LuaFurtado/LuaFurtado/output/snake.svg)
 
