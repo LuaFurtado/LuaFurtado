@@ -59,7 +59,7 @@ Currently a Part-Time Software Engineering participant at **Techtonica**, VP of 
 
 ## ⚡ Fun facts
 - 🪄 I love musical theatre (*Wicked* vibes).  
-- 🧵 Hobbies: watercolor, beading, scrapbooking, thrifting.  
+- 🧵 Hobbies: watercolor, beading, thrifting.  
 ---
 
 ## 📫 Connect with me
